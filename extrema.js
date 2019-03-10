@@ -1,6 +1,6 @@
 //Extremums - points, where the derivative of a function changes signs
 function extremum(input) {
-	let output = []; // Extremums array
+  let output = []; // Extremums array
   let presign; // Derivative sign of a previous point
   let sign; // Derivative sign of a current point
   let zeros = 0; // Number of horizontal inflection points
