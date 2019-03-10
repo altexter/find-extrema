@@ -1,1 +1,1 @@
-# Find extrema points in an array of points array
+# Find extrema points in an array of points
